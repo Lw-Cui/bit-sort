@@ -1,4 +1,4 @@
-------------------updata april 30, 2015---------------------------
+-------------------updata april 30, 2015---------------------------
 
 This tiny project (namely "lw's toy") containing some CPP file to complement a function,
 which can read 5*10^6 random integer data varies from 1 to 10^7 and sort them using just 1.25 MB storage.
