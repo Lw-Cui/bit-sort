@@ -7,4 +7,4 @@ the awsome algorithm trick learned from 'Programming Pearls' writen by Jon Bentl
 the basic idea of algorithm is likely Counting sort (aka. bit sort).
 
 I use 'random' to create a text file containing 5000000 random integer number.
-After 'toy' can sort and output ascendingly.
+After that 'toy' can sort and output ascendingly.
